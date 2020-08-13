@@ -1,0 +1,23 @@
+2020-08-13T00:25:52.978Z - info:   [17928] *** FOLDER: d:\Project\Project2020\ProjectGH ***
+2020-08-13T00:25:52.982Z - info:   [17928] AzureReposVSCode/1.161.0 (VSCode 1.47.3; Windows_NT 10.0.19041; Node 12.8.1)
+2020-08-13T00:25:52.984Z - debug:  [17928] Looking for an External Context at d:\Project\Project2020\ProjectGH
+2020-08-13T00:25:52.984Z - debug:  [17928] No External Context at d:\Project\Project2020\ProjectGH
+2020-08-13T00:25:52.995Z - debug:  [17928] Looking for TFVC repository at d:\Project\Project2020\ProjectGH
+2020-08-13T00:25:52.996Z - debug:  [17928] TFVC Creating Tfvc object with localPath='undefined'
+2020-08-13T00:25:53.000Z - debug:  [17928] Using TFS proxy: https://tfisolutions.visualstudio.com/
+2020-08-13T00:25:53.000Z - debug:  [17928] TFVC Retrieved from settings; localPath='C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\tf.exe'
+2020-08-13T00:25:53.006Z - debug:  [17928] TFVC Repository created with repositoryRootFolder='d:\Project\Project2020\ProjectGH'
+2020-08-13T00:25:53.011Z - debug:  [17928] TFVC Repository.CheckVersion
+2020-08-13T00:25:53.012Z - debug:  [17928] TFVC: tf add -noprompt -?
+2020-08-13T00:25:53.051Z - debug:  [17928] TFVC: spawned new process (duration: 35ms)
+2020-08-13T00:25:53.073Z - debug:  [17928] TFVC: spawned new process (duration: 20ms)
+2020-08-13T00:25:55.944Z - debug:  [17928] TFVC: add exit code: 0 (duration: 2931ms)
+2020-08-13T00:25:55.944Z - debug:  [17928] TFVC Minimum required version: 14.102.0
+2020-08-13T00:25:55.945Z - debug:  [17928] TFVC (TF.exe, TF.cmd) version: 15.129.30001.5
+2020-08-13T00:25:55.945Z - debug:  [17928] TFVC Repository.FindWorkspace with localPath='d:\Project\Project2020\ProjectGH'
+2020-08-13T00:25:55.946Z - debug:  [17928] TFVC: tf workfold -noprompt d:\Project\Project2020\ProjectGH
+2020-08-13T00:25:55.953Z - debug:  [17928] TFVC: spawned new process (duration: 7ms)
+2020-08-13T00:25:57.964Z - debug:  [17928] TFVC: workfold exit code: 100 (duration: 2018ms)
+2020-08-13T00:25:57.967Z - debug:  [17928] TFVC errors (via stderr): Unable to determine the workspace. You may be able to correct this by running 'tf workspaces /collection:TeamProjectCollectionUrl'.
+
+2020-08-13T00:25:57.968Z - error:  [17928] Execution of the TFVC command line failed unexpectedly.
